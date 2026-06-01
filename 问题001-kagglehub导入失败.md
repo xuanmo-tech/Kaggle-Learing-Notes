@@ -15,6 +15,6 @@
 1.查看kagglehub版本，查看是哪一个落后需要更新
 <img width="1266" height="76" alt="image" src="https://github.com/user-attachments/assets/7ec7162d-4178-4dae-9ca5-3300cd20f7ae" />
 这里会显示，需要更新到0.3.6
-执行命令，即可解决
+执行 pip install kagglehub==0.3.6 命令，即可解决
 
 
