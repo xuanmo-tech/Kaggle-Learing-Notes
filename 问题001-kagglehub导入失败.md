@@ -12,7 +12,7 @@
 问题：当正常pip install之后显示kagglehub正常import时，但是显示import错误，诸如图<img width="1820" height="306" alt="image" src="https://github.com/user-attachments/assets/e40c83cb-86aa-4843-85a5-2db5cdcf5ebb" />
 
 解决办法：
-1.查看kagglehub版本，查看是哪一个落后需要更新
+查看kagglehub版本，查看是哪一个落后需要更新
 <img width="1266" height="76" alt="image" src="https://github.com/user-attachments/assets/7ec7162d-4178-4dae-9ca5-3300cd20f7ae" />
 这里会显示，需要更新到0.3.6
 执行 pip install kagglehub==0.3.6 命令，即可解决
